@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[smallstuff]]></title>
+        <description><![CDATA[smallstuff]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 17 May 2016 18:45:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c71313ed-1172-471f-91fa-145b831705b0.jpg">]]></description>
+            <link>undefinedtesting-the-site-i-have-no-idea-for-what-the-hell-i-paid-fo/index.html</link>
+            <guid isPermaLink="false">616eafc6-a5ce-4ffb-90a3-5114017da530</guid>
+            <pubDate>Tue, 17 May 2016 18:45:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
