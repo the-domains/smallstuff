@@ -2,6 +2,7 @@ name: smallstuff
 favicon: null
 layout_spectrum: 0.36432895762845874
 typography_spectrum: 0.6970948080997914
+title: smallstuff
 cta:
   domain: null
   bucket: null
