@@ -1,6 +1,6 @@
 name: smallstuff
 favicon: null
-layout_spectrum: 0.36432895762845874
+layout_spectrum: 1
 typography_spectrum: 0.6970948080997914
 title: smallstuff
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.4980487416032702
-  lightness: 0.9769418551586568
-  saturation: 0.16168049722909927
-  rhythmicContrast: 0.1224404585082084
+    - '#000000'
+    - '#2a0505'
+    - '#7b2828'
+    - '#aa4f4f'
+    - '#4c1818'
+  brandStrength: 0.5625
+  lightness: 0.8125
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
